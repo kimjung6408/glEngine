@@ -1,0 +1,2 @@
+gl_InstanceID : 현재 몇 번 Object가 rendering 되고 있는지를 알려준다.
+이것을 이용하여 좌표 등을 설정할 수 있다.

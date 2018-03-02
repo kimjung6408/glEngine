@@ -1,0 +1,7 @@
+uniform variable
+: java , c++ 코드 상에서 언제든지 쉐이더로 데이터를 보낼 수 있는 연결 변수.
+파이프라인 수행 중에 constant 하다.
+
+Entity
+:Model이 어떻게 렌더링이 될지 변수값들을 저장한 클래스
+ex) position, rotation, scale 정보를 저장.

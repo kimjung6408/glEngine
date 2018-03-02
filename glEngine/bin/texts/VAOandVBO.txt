@@ -1,0 +1,7 @@
+Vertex Array Object
+:오브젝트를 렌더링하는데 필요한 데이터들을 큰 단위로 인덱스를 부여하여 저장한 것.
+ex) 
+0번 : VertexBuffer1
+1번 : VertexColor
+2번: VertexNormals
+

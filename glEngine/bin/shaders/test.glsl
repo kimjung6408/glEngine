@@ -1,0 +1,8 @@
+
+
+
+uniform int
+main()
+{
+ 
+}
